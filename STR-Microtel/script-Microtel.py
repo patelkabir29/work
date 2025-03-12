@@ -6,6 +6,12 @@ import re
 import os
 from datetime import datetime, timedelta
 
+USER = 'your_username'
+PASS = 'your_password'
+ACCOUNT = 'your_account'
+WAREHOUSE = 'your_warehouse'
+DATABASE = 'your_database'
+
 # Función para cargar la configuración desde el archivo JSON
 def load_config(archivo_config):
     with open(archivo_config, 'r') as f:
@@ -966,11 +972,12 @@ def clean_value_output(value, value_type):
 #     return value
 def create_schemas(sheet_name):
     conn = snowflake.connector.connect(
-        user='name',
-        password='Pass@1234',
-        account='nzb10951.us',
-        warehouse='ANY_WH',
-        database='DB')
+        user = USER,
+        password = PASS,
+        account = ACCOUNT,
+        warehouse = WAREHOUSE,
+        database = DATABASE
+    )
 
     fnal_sql =  f"CREATE SCHEMA IF NOT EXISTS STR.\"{sheet_name.upper()}\";"
 
@@ -984,11 +991,12 @@ def create_schemas(sheet_name):
 
 def create_tables(sql_script, sheet_name, table_name):
     conn = snowflake.connector.connect(
-        user='name',
-        password='Pass@1234',
-        account='nzb10951.us',
-        warehouse='ANY_WH',
-        database='DB')
+        user = USER,
+        password = PASS,
+        account = ACCOUNT,
+        warehouse = WAREHOUSE,
+        database = DATABASE
+    )
 
     fnal_sql =  f"create TABLE IF NOT EXISTS STR.\"{sheet_name.upper()}\".{table_name.upper()} (PROPERTY_NAME VARCHAR,PROPERTY_ID INTEGER,PERIOD DATE,CREATED_DATE DATE,SOURCE Varchar,"+ sql_script +")"
 
@@ -1049,11 +1057,12 @@ def get_query(json_data, sheet_name, table_name, condition_columns, isMerge):
     
 def insert_data(sheet_name, table_name, json_data, isMerge):
     conn = snowflake.connector.connect(
-        user='name',
-        password='Pass@1234',
-        account='nzb10951.us',
-        warehouse='ANY_WH',
-        database='DB')
+        user = USER,
+        password = PASS,
+        account = ACCOUNT,
+        warehouse = WAREHOUSE,
+        database = DATABASE
+    )
 
     try:
         # if json_data["PERIOD"]:
@@ -1103,13 +1112,15 @@ def getOnKeys(table_name, sheet_name):
     else:
         return ["PROPERTY_ID", "TYPE", "PERIOD"]
 
+
 def add_column(col, sheet_name, table_name):
     conn = snowflake.connector.connect(
-        user='name',
-        password='Pass@1234',
-        account='nzb10951.us',
-        warehouse='ANY_WH',
-        database='DB')
+        user = USER,
+        password = PASS,
+        account = ACCOUNT,
+        warehouse = WAREHOUSE,
+        database = DATABASE
+    )
 
     cur = conn.cursor()
 
@@ -1156,10 +1167,11 @@ def add_column(col, sheet_name, table_name):
 
 # REPLACE WITH:  datetime.now().strftime('%Y%m') + '00'
 # For Current date
-current_date = '202'
+current_date = '202412'
 
 # Get current dir file list
-current_dir = os.getcwd()
+current_dir = os.path.expanduser(r"C:\Users\patel\Downloads\STR-Microtel")
+print(current_dir + '\n')
 
 # search for files with name format
 _files = []
@@ -1186,18 +1198,18 @@ for archivo_excel in _files:
    
 
     print("Loadin from file: ", archivo_excel)
-    archivo_configuracion = 'configuracion.json'
+    archivo_configuracion = 'configuracion-Microtel.json'
 
     # Load the STR report
     try:
-        datos_excel = pd.ExcelFile(archivo_excel)
+        datos_excel = pd.ExcelFile(current_dir + "\\" + archivo_excel)
     except FileNotFoundError:
         print(f"Error: Couldn't find the STR report file specified '{archivo_excel}'.")
         exit()
 
     # Load the configuration from the file
     try:
-        config = load_config(archivo_configuracion)
+        config = load_config(current_dir + "\\" + archivo_configuracion)
     except FileNotFoundError:
         print(f"Error: Couldn't find the configuration file '{archivo_configuracion}'.")
         exit()
