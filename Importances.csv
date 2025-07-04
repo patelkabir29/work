@@ -1,0 +1,1002 @@
+Columns,Correlation Ratio,Target Column
+Asking Rent,0.9976696657124997,Effective Rent
+Percent of Units Offering Concessions,0.001708661,Effective Rent
+Concession ($),0.000197969,Effective Rent
+Concession (% of Asking Rent),0.000192859,Effective Rent
+Effective RPSF,5.619091550686584e-05,Effective Rent
+Asking RPSF,5.209639710109813e-05,Effective Rent
+Average Year Built of Sample,1.3113790180329603e-05,Effective Rent
+YoY Effective Rent Change,1.3042994286496745e-05,Effective Rent
+YoY Effective Rent Change 1,1.0330098142314165e-05,Effective Rent
+Annual Units Sampled,7.562073112563666e-06,Effective Rent
+Year,7.3818192440618445e-06,Effective Rent
+YoY Asking Rent Change 1,5.604113311982664e-06,Effective Rent
+Yoy Asking Rent Change,4.739609934417555e-06,Effective Rent
+Average Unit Size (SF),4.567275466691459e-06,Effective Rent
+Annual Properties Sampled,4.5667627630716e-06,Effective Rent
+Vacancy,4.501724646774152e-06,Effective Rent
+Occupancy,4.267177540212199e-06,Effective Rent
+Units Sampled,4.178282126209419e-06,Effective Rent
+ZIP Code,3.8059759385468316e-06,Effective Rent
+Percent Sampled,3.6915016037596887e-06,Effective Rent
+Effective Rent Change,3.0591994307252242e-06,Effective Rent
+YoY Occupancy Change,2.9574284199422557e-06,Effective Rent
+Effective Rent Change 1,2.9133298907122733e-06,Effective Rent
+Month,2.8792946833225103e-06,Effective Rent
+Units Sampled 1,2.6878250539504066e-06,Effective Rent
+Asking Rent Change,2.6596445937436045e-06,Effective Rent
+Asking Rent Change 1,2.5757367668030177e-06,Effective Rent
+YoY Occupancy Change 1,2.1790368947263714e-06,Effective Rent
+Occupancy Change,1.979180839401049e-06,Effective Rent
+Properties Sampled 1,1.8819199401291414e-06,Effective Rent
+Properties Sampled,1.7623602135869977e-06,Effective Rent
+Ora Score,6.133076192092286e-07,Effective Rent
+YoY Ora Score Change,4.987008266321355e-07,Effective Rent
+QoQ Ora Score Change,3.874949811323138e-07,Effective Rent
+Category_Unit Type,3.3764310657353293e-07,Effective Rent
+Niche_2 BR,2.725426387711951e-07,Effective Rent
+Niche_1980s,2.141213043873247e-07,Effective Rent
+Niche_3 BR,2.0292388937733586e-07,Effective Rent
+Category_Year Built,1.9942225277955286e-07,Effective Rent
+Niche_2010s,1.2694164546107077e-07,Effective Rent
+Niche_Class C,7.579303589014871e-08,Effective Rent
+Category_Class,5.3057825711664554e-08,Effective Rent
+Niche_2000s,5.065454034432373e-08,Effective Rent
+Niche_Class B,4.528356751053133e-08,Effective Rent
+Niche_Pre-1970,4.435586163044463e-08,Effective Rent
+Niche_1990s,3.8416101211355294e-08,Effective Rent
+Niche_1970s,3.533279016806314e-08,Effective Rent
+Niche_Class A,3.464296751154599e-08,Effective Rent
+Annual Transaction Volume ($),2.6359981162447128e-08,Effective Rent
+Existing Units,2.523648368182554e-08,Effective Rent
+Category_Totals,2.3595193916574427e-08,Effective Rent
+Annual Price per Unit,2.2521103901389067e-08,Effective Rent
+Niche_Mid-Rise,2.20925586586603e-08,Effective Rent
+Niche_Eff,2.1787742119483473e-08,Effective Rent
+Annual Cap Rate,1.886393019477518e-08,Effective Rent
+Annual Transaction Volume (#),1.882093964187994e-08,Effective Rent
+Niche_Totals,1.8158168954563158e-08,Effective Rent
+Niche_High-Rise,1.7467621678147925e-08,Effective Rent
+Niche_2020+,1.5821133260414608e-08,Effective Rent
+Rent Roll (Rev / OSF),1.5421219118638012e-08,Effective Rent
+YoY Revenue Change (Rev / ASF),1.5279250453954352e-08,Effective Rent
+YoY Renewal Conversion Change,1.4531850679755732e-08,Effective Rent
+Signed Renewal Leases per Unit,1.4232473435668447e-08,Effective Rent
+Renewal Lease Term,1.4198050237566494e-08,Effective Rent
+New Lease Applications per Unit,1.3934622348190129e-08,Effective Rent
+Revenue (Rev / ASF),1.3685141197705502e-08,Effective Rent
+YoY Rent Roll Change (Rev / OSF),1.3097208684434066e-08,Effective Rent
+New Lease Term,1.261634791216126e-08,Effective Rent
+Average Vacant Days,1.219176167884371e-08,Effective Rent
+New Lease Rate Change (Trade Out),1.2120968802648702e-08,Effective Rent
+Renewal Conversion,1.1370962795066157e-08,Effective Rent
+Renewal Lease Rate Change (Trade Out),1.094642844561159e-08,Effective Rent
+Rate Change (Trade Out),1.0880011220109716e-08,Effective Rent
+Niche_Low-Rise,2.135169623218454e-09,Effective Rent
+Operating and Maintenance %,2.007747862261401e-09,Effective Rent
+Marketing Expenses %,1.5456883308231517e-09,Effective Rent
+YoY Expense Change per Unit (%),1.4962320341324215e-09,Effective Rent
+Leads (Guest Cards) per Unit,1.2410766606953001e-09,Effective Rent
+Utilities %,9.361649625642504e-10,Effective Rent
+Operating and Maintenance per Unit,8.533145899342173e-10,Effective Rent
+Payroll and Related Expenses per Unit,8.399061161846565e-10,Effective Rent
+Administrative Expenses per Unit,8.385408435237928e-10,Effective Rent
+Utilities per Unit,8.347767787928809e-10,Effective Rent
+Expense % of Revenue,8.273680298628593e-10,Effective Rent
+Management Fees %,8.263813650859353e-10,Effective Rent
+Taxes %,7.81960573349071e-10,Effective Rent
+NOI per Unit,6.805638360425293e-10,Effective Rent
+YoY Noi Change per Unit (%),5.616605201592166e-10,Effective Rent
+Insurance per Unit,5.374885503275264e-10,Effective Rent
+Taxes per Unit,5.328855801326462e-10,Effective Rent
+Turnover Costs %,5.289285389312416e-10,Effective Rent
+Insurance %,5.160693379509056e-10,Effective Rent
+Payroll and Related Expenses %,4.504977806574397e-10,Effective Rent
+Marketing Expenses per Unit,4.3735761304591655e-10,Effective Rent
+NOI % of Revenue,4.12116483568319e-10,Effective Rent
+Management Fees per Unit,3.2942178807691757e-10,Effective Rent
+Administrative Expenses %,2.977303975323707e-10,Effective Rent
+Turnover Costs per Unit,2.889528955188977e-10,Effective Rent
+Expense per Unit,2.683555546950841e-10,Effective Rent
+Quarterly Total Permits,2.427444544969638e-10,Effective Rent
+Annual Multifamily Permits,2.302871525248475e-10,Effective Rent
+MoM Total Permits Change,1.8678570370983092e-10,Effective Rent
+Total Employment,1.8045015805125062e-10,Effective Rent
+QoQ Employment Change (%),1.787457340356199e-10,Effective Rent
+MoM Single-Family Permits Change,1.6233149442580853e-10,Effective Rent
+Monthly Multifamily Permits,1.6125138286162374e-10,Effective Rent
+YoY Single-Family Permits Change,1.5601890942296524e-10,Effective Rent
+Annual Total Permits,1.5520205680619526e-10,Effective Rent
+MoM Multifamily Permits Change,1.4937724607198602e-10,Effective Rent
+MoM Employment Change (%),1.4451246448016604e-10,Effective Rent
+QoQ Total Permits Change,1.3747659399842671e-10,Effective Rent
+YoY Total Permits Change,1.3726607712848474e-10,Effective Rent
+Quarterly Single-Family Permits,1.252183221233291e-10,Effective Rent
+YoY Multifamily Permits Change,1.1895495303188055e-10,Effective Rent
+QoQ Employment Change (#),1.0374633271696373e-10,Effective Rent
+Monthly Single-Family Permits,1.023553344178842e-10,Effective Rent
+QoQ Single-Family Permits Change,9.660329333225016e-11,Effective Rent
+MoM Employment Change (#),8.600981423020151e-11,Effective Rent
+Annual Single-Family Permits,8.20131523573081e-11,Effective Rent
+YoY Employment Change (%),8.110635742078518e-11,Effective Rent
+Monthly Total Permits,7.429699793687266e-11,Effective Rent
+Quarterly Multifamily Permits,6.93579725869751e-11,Effective Rent
+YoY Employment Change (#),6.205717138774597e-11,Effective Rent
+QoQ Multifamily Permits Change,5.3705842742719267e-11,Effective Rent
+Other Expenses %,0,Effective Rent
+Median Rent-to-Income Ratio,0,Effective Rent
+Quarterly Removals,0,Effective Rent
+Quarterly Net Inventory,0,Effective Rent
+Annual Supply,0,Effective Rent
+Quarterly Net Inventory Ratio,0,Effective Rent
+Annual Removals,0,Effective Rent
+Quarterly Supply,0,Effective Rent
+Annual Property Starts,0,Effective Rent
+Average Monthly Income,0,Effective Rent
+Annual Net Supply,0,Effective Rent
+Property Starts,0,Effective Rent
+Unit Starts,0,Effective Rent
+Annual Unit Starts,0,Effective Rent
+Units Under Construction,0,Effective Rent
+Annual Demand,0,Effective Rent
+Annual Net Inventory Ratio,0,Effective Rent
+Quarterly Demand,0,Effective Rent
+Other Expenses per Unit,0,Effective Rent
+Revenue (Rev / ASF),0.997694861,Rent Roll (Rev / OSF)
+Renewal Conversion,0.000251706,Rent Roll (Rev / OSF)
+Rate Change (Trade Out),0.000238709,Rent Roll (Rev / OSF)
+New Lease Rate Change (Trade Out),0.00021931,Rent Roll (Rev / OSF)
+Average Vacant Days,8.792420889346736e-05,Rent Roll (Rev / OSF)
+YoY Renewal Conversion Change,8.14122141440047e-05,Rent Roll (Rev / OSF)
+YoY Asking Rent Change 1,8.079564464551522e-05,Rent Roll (Rev / OSF)
+New Lease Applications per Unit,7.884395458708241e-05,Rent Roll (Rev / OSF)
+Average Unit Size (SF),6.825277398489261e-05,Rent Roll (Rev / OSF)
+YoY Rent Roll Change (Rev / OSF),6.154875827940036e-05,Rent Roll (Rev / OSF)
+YoY Occupancy Change 1,5.6192769474342533e-05,Rent Roll (Rev / OSF)
+YoY Revenue Change (Rev / ASF),5.376125748622026e-05,Rent Roll (Rev / OSF)
+YoY Effective Rent Change 1,4.906379548029801e-05,Rent Roll (Rev / OSF)
+Ora Score,4.812128603185045e-05,Rent Roll (Rev / OSF)
+Percent Sampled,4.63206885655842e-05,Rent Roll (Rev / OSF)
+Average Year Built of Sample,3.932200791494819e-05,Rent Roll (Rev / OSF)
+Asking Rent Change 1,3.672390168727208e-05,Rent Roll (Rev / OSF)
+Renewal Lease Rate Change (Trade Out),3.653902545462912e-05,Rent Roll (Rev / OSF)
+Effective RPSF,3.628171231164897e-05,Rent Roll (Rev / OSF)
+Asking RPSF,3.619660490668362e-05,Rent Roll (Rev / OSF)
+Year,3.3082188867722595e-05,Rent Roll (Rev / OSF)
+Annual Units Sampled,3.2218850609430354e-05,Rent Roll (Rev / OSF)
+YoY Ora Score Change,3.215636344556181e-05,Rent Roll (Rev / OSF)
+YoY Effective Rent Change,3.1778965678256204e-05,Rent Roll (Rev / OSF)
+Yoy Asking Rent Change,3.1464701371434234e-05,Rent Roll (Rev / OSF)
+QoQ Ora Score Change,2.9584499900555802e-05,Rent Roll (Rev / OSF)
+YoY Occupancy Change,2.938808137035876e-05,Rent Roll (Rev / OSF)
+Renewal Lease Term,2.914802263176714e-05,Rent Roll (Rev / OSF)
+Effective Rent Change 1,2.7210237582041743e-05,Rent Roll (Rev / OSF)
+Percent of Units Offering Concessions,2.6626526711245734e-05,Rent Roll (Rev / OSF)
+Units Sampled 1,2.528980469861697e-05,Rent Roll (Rev / OSF)
+Concession (% of Asking Rent),2.458805200981791e-05,Rent Roll (Rev / OSF)
+Asking Rent,2.271891790837923e-05,Rent Roll (Rev / OSF)
+Vacancy,2.2709224055567304e-05,Rent Roll (Rev / OSF)
+Month,2.2505394573284303e-05,Rent Roll (Rev / OSF)
+Occupancy,2.202684386004034e-05,Rent Roll (Rev / OSF)
+Concession ($),2.1749774591810782e-05,Rent Roll (Rev / OSF)
+New Lease Term,1.9879722858131365e-05,Rent Roll (Rev / OSF)
+Effective Rent,1.9805395182305307e-05,Rent Roll (Rev / OSF)
+Units Sampled,1.9686491334989737e-05,Rent Roll (Rev / OSF)
+Annual Properties Sampled,1.9350997373688897e-05,Rent Roll (Rev / OSF)
+Signed Renewal Leases per Unit,1.7497159166877875e-05,Rent Roll (Rev / OSF)
+Effective Rent Change,1.7396004485712567e-05,Rent Roll (Rev / OSF)
+Asking Rent Change,1.6675164738499506e-05,Rent Roll (Rev / OSF)
+Properties Sampled 1,1.4367910011960963e-05,Rent Roll (Rev / OSF)
+Occupancy Change,1.2868163805412322e-05,Rent Roll (Rev / OSF)
+Properties Sampled,1.2278375046086328e-05,Rent Roll (Rev / OSF)
+Annual Transaction Volume (#),6.5074492266932145e-06,Rent Roll (Rev / OSF)
+Existing Units,5.806405357262257e-06,Rent Roll (Rev / OSF)
+Annual Price per Unit,5.494909670959062e-06,Rent Roll (Rev / OSF)
+Niche_Class A,3.869390870725409e-06,Rent Roll (Rev / OSF)
+Annual Cap Rate,3.317743449918193e-06,Rent Roll (Rev / OSF)
+Annual Transaction Volume ($),3.204637734294386e-06,Rent Roll (Rev / OSF)
+Category_Class,3.1703303330491607e-06,Rent Roll (Rev / OSF)
+Category_Year Built,2.9555977194181416e-06,Rent Roll (Rev / OSF)
+Niche_2000s,2.8315468742196305e-06,Rent Roll (Rev / OSF)
+Leads (Guest Cards) per Unit,2.5635343094622495e-06,Rent Roll (Rev / OSF)
+Niche_1990s,2.2847053995463533e-06,Rent Roll (Rev / OSF)
+Niche_High-Rise,2.224097522355922e-06,Rent Roll (Rev / OSF)
+Niche_2010s,1.5679181576185237e-06,Rent Roll (Rev / OSF)
+Niche_Class B,1.014104570661625e-06,Rent Roll (Rev / OSF)
+Niche_Totals,7.967299501153958e-07,Rent Roll (Rev / OSF)
+Management Fees %,7.821741509577619e-07,Rent Roll (Rev / OSF)
+Administrative Expenses per Unit,7.740550505895687e-07,Rent Roll (Rev / OSF)
+Niche_2020+,6.503901761911821e-07,Rent Roll (Rev / OSF)
+Operating and Maintenance %,6.46205568871619e-07,Rent Roll (Rev / OSF)
+Operating and Maintenance per Unit,6.390133675984001e-07,Rent Roll (Rev / OSF)
+Management Fees per Unit,6.287789597931945e-07,Rent Roll (Rev / OSF)
+YoY Expense Change per Unit (%),5.969277066677112e-07,Rent Roll (Rev / OSF)
+NOI % of Revenue,5.809606857697566e-07,Rent Roll (Rev / OSF)
+Administrative Expenses %,5.291330669960588e-07,Rent Roll (Rev / OSF)
+YoY Noi Change per Unit (%),5.257772249455427e-07,Rent Roll (Rev / OSF)
+Taxes per Unit,5.035876521772081e-07,Rent Roll (Rev / OSF)
+Marketing Expenses %,5.017018686510212e-07,Rent Roll (Rev / OSF)
+Taxes %,4.918437303574725e-07,Rent Roll (Rev / OSF)
+Turnover Costs %,4.809263667647816e-07,Rent Roll (Rev / OSF)
+Utilities %,4.788687970218338e-07,Rent Roll (Rev / OSF)
+Utilities per Unit,4.754638451212105e-07,Rent Roll (Rev / OSF)
+Payroll and Related Expenses %,4.684990162870663e-07,Rent Roll (Rev / OSF)
+Insurance per Unit,4.50641985953172e-07,Rent Roll (Rev / OSF)
+Category_Totals,4.502680799499264e-07,Rent Roll (Rev / OSF)
+Niche_Low-Rise,4.429619131546413e-07,Rent Roll (Rev / OSF)
+NOI per Unit,4.060001230139657e-07,Rent Roll (Rev / OSF)
+QoQ Single-Family Permits Change,3.9975040507946964e-07,Rent Roll (Rev / OSF)
+Turnover Costs per Unit,3.9309152893297685e-07,Rent Roll (Rev / OSF)
+Marketing Expenses per Unit,3.5701778973686935e-07,Rent Roll (Rev / OSF)
+Niche_1980s,3.483763604748661e-07,Rent Roll (Rev / OSF)
+Payroll and Related Expenses per Unit,3.4245870649627155e-07,Rent Roll (Rev / OSF)
+Niche_1970s,3.423125174594773e-07,Rent Roll (Rev / OSF)
+Expense per Unit,3.3610667654632246e-07,Rent Roll (Rev / OSF)
+Insurance %,3.0811683360477854e-07,Rent Roll (Rev / OSF)
+Expense % of Revenue,3.0157156402359863e-07,Rent Roll (Rev / OSF)
+Niche_Class C,2.735784630650804e-07,Rent Roll (Rev / OSF)
+Niche_Mid-Rise,2.2037598165634624e-07,Rent Roll (Rev / OSF)
+QoQ Employment Change (%),1.2003724599487198e-07,Rent Roll (Rev / OSF)
+YoY Total Permits Change,1.1630993739811787e-07,Rent Roll (Rev / OSF)
+MoM Employment Change (%),9.301077002734947e-08,Rent Roll (Rev / OSF)
+Annual Single-Family Permits,7.86393561530943e-08,Rent Roll (Rev / OSF)
+YoY Multifamily Permits Change,6.942367800950109e-08,Rent Roll (Rev / OSF)
+QoQ Employment Change (#),6.39986520262607e-08,Rent Roll (Rev / OSF)
+Annual Multifamily Permits,6.374026305627273e-08,Rent Roll (Rev / OSF)
+YoY Single-Family Permits Change,6.317780973188377e-08,Rent Roll (Rev / OSF)
+YoY Employment Change (%),5.912333596648399e-08,Rent Roll (Rev / OSF)
+Total Employment,5.133865997497233e-08,Rent Roll (Rev / OSF)
+Monthly Total Permits,4.770298491038762e-08,Rent Roll (Rev / OSF)
+Annual Total Permits,4.711388741403363e-08,Rent Roll (Rev / OSF)
+QoQ Multifamily Permits Change,4.69782583547023e-08,Rent Roll (Rev / OSF)
+MoM Single-Family Permits Change,4.598400156789313e-08,Rent Roll (Rev / OSF)
+Monthly Single-Family Permits,4.541528272831214e-08,Rent Roll (Rev / OSF)
+YoY Employment Change (#),4.2860448350964236e-08,Rent Roll (Rev / OSF)
+Niche_Pre-1970,4.170475083737763e-08,Rent Roll (Rev / OSF)
+Quarterly Total Permits,3.589061059999006e-08,Rent Roll (Rev / OSF)
+Quarterly Single-Family Permits,3.503364878351587e-08,Rent Roll (Rev / OSF)
+Quarterly Multifamily Permits,3.103325190060374e-08,Rent Roll (Rev / OSF)
+MoM Employment Change (#),3.005352081585507e-08,Rent Roll (Rev / OSF)
+QoQ Total Permits Change,2.9643931105844203e-08,Rent Roll (Rev / OSF)
+MoM Total Permits Change,2.7719906737433295e-08,Rent Roll (Rev / OSF)
+MoM Multifamily Permits Change,2.1093313665533754e-08,Rent Roll (Rev / OSF)
+Monthly Multifamily Permits,1.765810121004858e-08,Rent Roll (Rev / OSF)
+Median Rent-to-Income Ratio,0,Rent Roll (Rev / OSF)
+Niche_Eff,0,Rent Roll (Rev / OSF)
+Niche_2 BR,0,Rent Roll (Rev / OSF)
+Other Expenses %,0,Rent Roll (Rev / OSF)
+Niche_3 BR,0,Rent Roll (Rev / OSF)
+Quarterly Removals,0,Rent Roll (Rev / OSF)
+Category_Unit Type,0,Rent Roll (Rev / OSF)
+Other Expenses per Unit,0,Rent Roll (Rev / OSF)
+Annual Removals,0,Rent Roll (Rev / OSF)
+Annual Net Supply,0,Rent Roll (Rev / OSF)
+Property Starts,0,Rent Roll (Rev / OSF)
+Annual Property Starts,0,Rent Roll (Rev / OSF)
+Unit Starts,0,Rent Roll (Rev / OSF)
+Annual Unit Starts,0,Rent Roll (Rev / OSF)
+Units Under Construction,0,Rent Roll (Rev / OSF)
+Annual Demand,0,Rent Roll (Rev / OSF)
+Annual Net Inventory Ratio,0,Rent Roll (Rev / OSF)
+Quarterly Demand,0,Rent Roll (Rev / OSF)
+Quarterly Net Inventory,0,Rent Roll (Rev / OSF)
+Quarterly Supply,0,Rent Roll (Rev / OSF)
+Average Monthly Income,0,Rent Roll (Rev / OSF)
+Annual Supply,0,Rent Roll (Rev / OSF)
+ZIP Code,0,Rent Roll (Rev / OSF)
+Quarterly Net Inventory Ratio,0,Rent Roll (Rev / OSF)
+Effective Rent,0.9976492365433016,Asking Rent
+Percent of Units Offering Concessions,0.001651947,Asking Rent
+Concession ($),0.000410843,Asking Rent
+Concession (% of Asking Rent),7.163628801974098e-05,Asking Rent
+Asking RPSF,5.1578438620125924e-05,Asking Rent
+Effective RPSF,4.0223576114689216e-05,Asking Rent
+Average Year Built of Sample,1.2849482012609383e-05,Asking Rent
+YoY Effective Rent Change 1,1.162261699638328e-05,Asking Rent
+Yoy Asking Rent Change,8.811014041154235e-06,Asking Rent
+YoY Asking Rent Change 1,7.5556568742541476e-06,Asking Rent
+YoY Effective Rent Change,7.08658056847572e-06,Asking Rent
+Annual Units Sampled,6.302398553076393e-06,Asking Rent
+Units Sampled,6.298531626808698e-06,Asking Rent
+ZIP Code,6.141532506751403e-06,Asking Rent
+Year,5.600720890692423e-06,Asking Rent
+Vacancy,4.250793346268269e-06,Asking Rent
+Occupancy,4.156683842772362e-06,Asking Rent
+Percent Sampled,3.7018566106562295e-06,Asking Rent
+Average Unit Size (SF),3.575178900028455e-06,Asking Rent
+Units Sampled 1,3.497143947158513e-06,Asking Rent
+Effective Rent Change,3.361172223611212e-06,Asking Rent
+YoY Occupancy Change,3.1375655403204933e-06,Asking Rent
+Annual Properties Sampled,2.940842457354859e-06,Asking Rent
+Month,2.771803322560187e-06,Asking Rent
+Asking Rent Change 1,2.6241150629497092e-06,Asking Rent
+YoY Occupancy Change 1,2.6086840887523376e-06,Asking Rent
+Effective Rent Change 1,2.56275837965016e-06,Asking Rent
+Asking Rent Change,2.5617174277360727e-06,Asking Rent
+Properties Sampled 1,2.207937464995105e-06,Asking Rent
+Occupancy Change,1.8188360742062574e-06,Asking Rent
+Properties Sampled,1.5737662292397009e-06,Asking Rent
+Ora Score,8.348396888531184e-07,Asking Rent
+Category_Unit Type,5.550283744217589e-07,Asking Rent
+YoY Ora Score Change,4.353636012277732e-07,Asking Rent
+Niche_3 BR,4.178781762378392e-07,Asking Rent
+Niche_2010s,3.8761155050084595e-07,Asking Rent
+QoQ Ora Score Change,3.39428879717433e-07,Asking Rent
+Niche_Class C,2.422381456028199e-07,Asking Rent
+Niche_2 BR,2.2804260503156674e-07,Asking Rent
+Niche_1980s,2.2699070224434635e-07,Asking Rent
+Category_Year Built,2.2382798493058333e-07,Asking Rent
+Niche_2020+,8.461908408002031e-08,Asking Rent
+Niche_2000s,7.045385433567625e-08,Asking Rent
+Category_Class,6.945411072654776e-08,Asking Rent
+Niche_1990s,6.937347465181167e-08,Asking Rent
+Niche_Totals,6.726894619171185e-08,Asking Rent
+Niche_Class B,6.241286566490867e-08,Asking Rent
+Category_Totals,6.107889526338283e-08,Asking Rent
+Niche_Pre-1970,5.5856736860975e-08,Asking Rent
+Niche_1970s,4.7269146142839896e-08,Asking Rent
+Niche_Eff,4.688453640522938e-08,Asking Rent
+Niche_Class A,4.072968483810437e-08,Asking Rent
+Existing Units,2.252513469483126e-08,Asking Rent
+Niche_High-Rise,2.189321010618433e-08,Asking Rent
+Annual Cap Rate,2.1486740968557627e-08,Asking Rent
+Annual Price per Unit,2.0267533015935757e-08,Asking Rent
+Annual Transaction Volume ($),2.02472324117973e-08,Asking Rent
+YoY Rent Roll Change (Rev / OSF),1.869209851248634e-08,Asking Rent
+YoY Revenue Change (Rev / ASF),1.7448275459349207e-08,Asking Rent
+Annual Transaction Volume (#),1.5781389397448564e-08,Asking Rent
+Revenue (Rev / ASF),1.568419430547093e-08,Asking Rent
+Renewal Lease Rate Change (Trade Out),1.5404788726924774e-08,Asking Rent
+YoY Renewal Conversion Change,1.3719019481816689e-08,Asking Rent
+Renewal Conversion,1.3405303756164788e-08,Asking Rent
+Rent Roll (Rev / OSF),1.2523501916857117e-08,Asking Rent
+New Lease Applications per Unit,1.2474491262990924e-08,Asking Rent
+New Lease Term,1.2302078471790804e-08,Asking Rent
+Average Vacant Days,1.2025342327322823e-08,Asking Rent
+Renewal Lease Term,1.1682086838567729e-08,Asking Rent
+Signed Renewal Leases per Unit,1.1460202010809035e-08,Asking Rent
+Rate Change (Trade Out),1.1356167799010055e-08,Asking Rent
+New Lease Rate Change (Trade Out),1.1191533215279108e-08,Asking Rent
+Niche_Mid-Rise,5.1969908153062895e-09,Asking Rent
+Operating and Maintenance %,2.943047057628404e-09,Asking Rent
+Utilities per Unit,2.754493206644003e-09,Asking Rent
+Management Fees %,2.401745972844084e-09,Asking Rent
+Taxes per Unit,2.0570197219744135e-09,Asking Rent
+YoY Expense Change per Unit (%),1.930366900415792e-09,Asking Rent
+YoY Noi Change per Unit (%),1.8796750687358836e-09,Asking Rent
+Niche_Low-Rise,1.7723130614732718e-09,Asking Rent
+Leads (Guest Cards) per Unit,1.6201974080531575e-09,Asking Rent
+Expense % of Revenue,1.4030331979404322e-09,Asking Rent
+Turnover Costs per Unit,1.3707894828394312e-09,Asking Rent
+NOI % of Revenue,1.1716799043869226e-09,Asking Rent
+Operating and Maintenance per Unit,8.54033567583732e-10,Asking Rent
+Payroll and Related Expenses per Unit,8.222799084837563e-10,Asking Rent
+Insurance %,6.622844468357755e-10,Asking Rent
+Insurance per Unit,6.533882120010605e-10,Asking Rent
+Marketing Expenses per Unit,6.186932428330562e-10,Asking Rent
+Management Fees per Unit,6.026868695120188e-10,Asking Rent
+Turnover Costs %,5.538686946622113e-10,Asking Rent
+MoM Employment Change (#),5.501773027522729e-10,Asking Rent
+Marketing Expenses %,4.876654293342735e-10,Asking Rent
+NOI per Unit,4.855783608247089e-10,Asking Rent
+Administrative Expenses %,4.6147069882619827e-10,Asking Rent
+Administrative Expenses per Unit,4.449831133232391e-10,Asking Rent
+Utilities %,3.9382523878218124e-10,Asking Rent
+Payroll and Related Expenses %,3.863623865210123e-10,Asking Rent
+Taxes %,3.5898292516914834e-10,Asking Rent
+Expense per Unit,3.5586393571424177e-10,Asking Rent
+Annual Total Permits,2.6126545127259356e-10,Asking Rent
+MoM Single-Family Permits Change,2.61193786503976e-10,Asking Rent
+MoM Employment Change (%),1.8182369929050898e-10,Asking Rent
+Monthly Total Permits,1.786929844439213e-10,Asking Rent
+Total Employment,1.4756569278295924e-10,Asking Rent
+YoY Total Permits Change,1.3467179396852922e-10,Asking Rent
+MoM Total Permits Change,1.3244326318455256e-10,Asking Rent
+Quarterly Single-Family Permits,1.1938813739002974e-10,Asking Rent
+MoM Multifamily Permits Change,1.189814524092009e-10,Asking Rent
+YoY Multifamily Permits Change,1.1392775628865715e-10,Asking Rent
+QoQ Employment Change (#),1.1025824393671852e-10,Asking Rent
+Annual Multifamily Permits,1.0860825886550345e-10,Asking Rent
+Monthly Single-Family Permits,1.0843603790850603e-10,Asking Rent
+YoY Employment Change (%),1.0676529442548835e-10,Asking Rent
+QoQ Employment Change (%),1.0456843748957785e-10,Asking Rent
+Annual Single-Family Permits,1.0005529659993423e-10,Asking Rent
+Quarterly Multifamily Permits,9.725323198528446e-11,Asking Rent
+YoY Single-Family Permits Change,9.413941624243381e-11,Asking Rent
+QoQ Single-Family Permits Change,9.356655862257632e-11,Asking Rent
+Quarterly Total Permits,8.920839254259806e-11,Asking Rent
+QoQ Total Permits Change,6.411201406736781e-11,Asking Rent
+YoY Employment Change (#),6.402454015568391e-11,Asking Rent
+Monthly Multifamily Permits,5.860043138844239e-11,Asking Rent
+QoQ Multifamily Permits Change,5.5619427513241436e-11,Asking Rent
+Annual Net Inventory Ratio,0,Asking Rent
+Quarterly Demand,0,Asking Rent
+Annual Demand,0,Asking Rent
+Other Expenses %,0,Asking Rent
+Median Rent-to-Income Ratio,0,Asking Rent
+Average Monthly Income,0,Asking Rent
+Other Expenses per Unit,0,Asking Rent
+Quarterly Net Inventory Ratio,0,Asking Rent
+Quarterly Net Inventory,0,Asking Rent
+Quarterly Removals,0,Asking Rent
+Annual Supply,0,Asking Rent
+Annual Removals,0,Asking Rent
+Annual Net Supply,0,Asking Rent
+Property Starts,0,Asking Rent
+Annual Property Starts,0,Asking Rent
+Unit Starts,0,Asking Rent
+Annual Unit Starts,0,Asking Rent
+Units Under Construction,0,Asking Rent
+Quarterly Supply,0,Asking Rent
+Asking RPSF,0.9855298556853267,Effective RPSF
+Average Unit Size (SF),0.010401015784259775,Effective RPSF
+Percent of Units Offering Concessions,0.002584098,Effective RPSF
+Concession (% of Asking Rent),0.000479188,Effective RPSF
+Effective Rent,0.000288892,Effective RPSF
+Asking Rent,0.000187689,Effective RPSF
+Concession ($),7.340766646928555e-05,Effective RPSF
+Niche_Pre-1970,6.544274628450198e-05,Effective RPSF
+Units Sampled 1,5.8095293330715036e-05,Effective RPSF
+Average Year Built of Sample,4.699845425256146e-05,Effective RPSF
+Properties Sampled 1,3.3696959135373565e-05,Effective RPSF
+Units Sampled,3.2981295807906403e-05,Effective RPSF
+Year,3.132467333002323e-05,Effective RPSF
+Month,3.087686962447631e-05,Effective RPSF
+Category_Class,2.4822204455166468e-05,Effective RPSF
+Category_Year Built,2.203552551342865e-05,Effective RPSF
+Percent Sampled,1.3731886977819635e-05,Effective RPSF
+Annual Units Sampled,1.2665065765396013e-05,Effective RPSF
+Occupancy,9.82922342996948e-06,Effective RPSF
+YoY Effective Rent Change,9.245682537110823e-06,Effective RPSF
+YoY Effective Rent Change 1,8.575519101258877e-06,Effective RPSF
+Effective Rent Change,5.352080979783335e-06,Effective RPSF
+Asking Rent Change,4.790606339586073e-06,Effective RPSF
+Asking Rent Change 1,4.3071458667463605e-06,Effective RPSF
+Effective Rent Change 1,4.2933433295660314e-06,Effective RPSF
+Vacancy,3.976053722134777e-06,Effective RPSF
+Annual Properties Sampled,3.7342284386075414e-06,Effective RPSF
+ZIP Code,3.6092069260257236e-06,Effective RPSF
+YoY Occupancy Change 1,3.1622381211516436e-06,Effective RPSF
+YoY Asking Rent Change 1,3.1123234466948342e-06,Effective RPSF
+YoY Occupancy Change,2.927628537746783e-06,Effective RPSF
+Yoy Asking Rent Change,2.91607617945076e-06,Effective RPSF
+Occupancy Change,2.3447217679257304e-06,Effective RPSF
+Properties Sampled,2.218620774856805e-06,Effective RPSF
+Ora Score,2.0919008632003026e-06,Effective RPSF
+QoQ Ora Score Change,1.3353827654851178e-06,Effective RPSF
+Category_Unit Type,1.2068187855417151e-06,Effective RPSF
+YoY Ora Score Change,1.050214617901397e-06,Effective RPSF
+Niche_3 BR,6.267051973872111e-07,Effective RPSF
+Niche_Eff,4.34794515000033e-07,Effective RPSF
+Niche_2000s,2.4120942064745567e-07,Effective RPSF
+Niche_2 BR,2.398763726518362e-07,Effective RPSF
+Niche_1980s,2.394957180125419e-07,Effective RPSF
+Niche_Class A,1.8145781953145188e-07,Effective RPSF
+Niche_2010s,1.39794250809484e-07,Effective RPSF
+Niche_2020+,8.018566311016897e-08,Effective RPSF
+Niche_1990s,6.823643537965432e-08,Effective RPSF
+Niche_High-Rise,5.6662593111060785e-08,Effective RPSF
+Niche_Class B,5.210944304069441e-08,Effective RPSF
+Niche_1970s,3.90332416793412e-08,Effective RPSF
+New Lease Applications per Unit,3.784107664898041e-08,Effective RPSF
+Annual Transaction Volume ($),3.707810240579863e-08,Effective RPSF
+Annual Cap Rate,3.702758692847291e-08,Effective RPSF
+Annual Price per Unit,3.549974045003079e-08,Effective RPSF
+YoY Rent Roll Change (Rev / OSF),3.499208097431969e-08,Effective RPSF
+Rate Change (Trade Out),3.449980515525773e-08,Effective RPSF
+Existing Units,3.269399283293334e-08,Effective RPSF
+New Lease Term,3.088110858811296e-08,Effective RPSF
+Annual Transaction Volume (#),3.0836350772954825e-08,Effective RPSF
+Rent Roll (Rev / OSF),2.913684086180216e-08,Effective RPSF
+Revenue (Rev / ASF),2.80187407094754e-08,Effective RPSF
+Niche_Mid-Rise,2.7608979421045605e-08,Effective RPSF
+Signed Renewal Leases per Unit,2.728939520042072e-08,Effective RPSF
+YoY Revenue Change (Rev / ASF),2.691623869659217e-08,Effective RPSF
+YoY Renewal Conversion Change,2.6580871621441233e-08,Effective RPSF
+Niche_Class C,2.5417337524599695e-08,Effective RPSF
+Average Vacant Days,2.469356447887509e-08,Effective RPSF
+Renewal Conversion,2.468730394070653e-08,Effective RPSF
+Renewal Lease Term,2.299656345361021e-08,Effective RPSF
+New Lease Rate Change (Trade Out),2.2710410420158806e-08,Effective RPSF
+Renewal Lease Rate Change (Trade Out),2.015544509244607e-08,Effective RPSF
+Niche_Totals,1.6487173248359218e-08,Effective RPSF
+Category_Totals,1.4462160090638481e-08,Effective RPSF
+Leads (Guest Cards) per Unit,4.8411979256386884e-09,Effective RPSF
+Administrative Expenses %,4.3323472987192955e-09,Effective RPSF
+Niche_Low-Rise,4.244912348889241e-09,Effective RPSF
+Insurance per Unit,3.5984999321222463e-09,Effective RPSF
+Operating and Maintenance per Unit,2.7815509349099543e-09,Effective RPSF
+Marketing Expenses %,2.5093386759341098e-09,Effective RPSF
+Operating and Maintenance %,2.228942074048545e-09,Effective RPSF
+Turnover Costs per Unit,2.1625513810009197e-09,Effective RPSF
+Turnover Costs %,2.0325783853100295e-09,Effective RPSF
+Marketing Expenses per Unit,2.0166211184071178e-09,Effective RPSF
+Utilities %,1.9238321236808858e-09,Effective RPSF
+Management Fees per Unit,1.9217601440899362e-09,Effective RPSF
+Expense per Unit,1.559854608025062e-09,Effective RPSF
+Expense % of Revenue,1.4887551295999117e-09,Effective RPSF
+Payroll and Related Expenses %,1.2498581470893476e-09,Effective RPSF
+YoY Noi Change per Unit (%),1.1697769136086968e-09,Effective RPSF
+Taxes per Unit,1.1686401356454224e-09,Effective RPSF
+Administrative Expenses per Unit,1.1488266231464938e-09,Effective RPSF
+Utilities per Unit,1.1196615873990068e-09,Effective RPSF
+NOI % of Revenue,1.1153821152246463e-09,Effective RPSF
+YoY Expense Change per Unit (%),1.0601172692763862e-09,Effective RPSF
+NOI per Unit,9.55668355894631e-10,Effective RPSF
+Management Fees %,8.011523824786827e-10,Effective RPSF
+Payroll and Related Expenses per Unit,7.506799803430299e-10,Effective RPSF
+Taxes %,7.403416262155346e-10,Effective RPSF
+Insurance %,7.080621877870353e-10,Effective RPSF
+YoY Single-Family Permits Change,5.414580085176706e-10,Effective RPSF
+YoY Employment Change (%),4.4150513586686853e-10,Effective RPSF
+Annual Single-Family Permits,4.33774883459643e-10,Effective RPSF
+YoY Total Permits Change,3.673730684400746e-10,Effective RPSF
+Quarterly Total Permits,3.3938393213977563e-10,Effective RPSF
+MoM Employment Change (#),3.364215066811614e-10,Effective RPSF
+Quarterly Single-Family Permits,3.2973130345809706e-10,Effective RPSF
+Monthly Single-Family Permits,3.083519128118034e-10,Effective RPSF
+YoY Multifamily Permits Change,2.7207014993828614e-10,Effective RPSF
+MoM Multifamily Permits Change,2.67387288266149e-10,Effective RPSF
+Annual Multifamily Permits,2.50419213483835e-10,Effective RPSF
+MoM Employment Change (%),2.4021932997641417e-10,Effective RPSF
+Total Employment,2.2730167922404652e-10,Effective RPSF
+QoQ Multifamily Permits Change,2.1925027680879127e-10,Effective RPSF
+MoM Total Permits Change,2.1827488400347177e-10,Effective RPSF
+Monthly Total Permits,2.1787723176687745e-10,Effective RPSF
+QoQ Employment Change (%),2.1672507395145913e-10,Effective RPSF
+Monthly Multifamily Permits,2.0348279912023124e-10,Effective RPSF
+Quarterly Multifamily Permits,1.991217732971813e-10,Effective RPSF
+QoQ Single-Family Permits Change,1.9879439768742342e-10,Effective RPSF
+YoY Employment Change (#),1.877446312038915e-10,Effective RPSF
+QoQ Total Permits Change,1.6248422604949563e-10,Effective RPSF
+QoQ Employment Change (#),1.4597792386747402e-10,Effective RPSF
+MoM Single-Family Permits Change,1.3049343547004265e-10,Effective RPSF
+Annual Total Permits,1.1012931299568485e-10,Effective RPSF
+Annual Net Supply,0,Effective RPSF
+Average Monthly Income,0,Effective RPSF
+Quarterly Supply,0,Effective RPSF
+Quarterly Net Inventory Ratio,0,Effective RPSF
+Quarterly Net Inventory,0,Effective RPSF
+Quarterly Removals,0,Effective RPSF
+Median Rent-to-Income Ratio,0,Effective RPSF
+Annual Supply,0,Effective RPSF
+Annual Removals,0,Effective RPSF
+Property Starts,0,Effective RPSF
+Annual Property Starts,0,Effective RPSF
+Unit Starts,0,Effective RPSF
+Annual Unit Starts,0,Effective RPSF
+Units Under Construction,0,Effective RPSF
+Annual Demand,0,Effective RPSF
+Annual Net Inventory Ratio,0,Effective RPSF
+Quarterly Demand,0,Effective RPSF
+Other Expenses per Unit,0,Effective RPSF
+Other Expenses %,0,Effective RPSF
+Month,0.0715981,Occupancy Change
+YoY Occupancy Change,0.066457877,Occupancy Change
+Vacancy,0.0594502,Occupancy Change
+Occupancy,0.056708353841083026,Occupancy Change
+Effective Rent Change,0.053290852287861394,Occupancy Change
+Year,0.050679475234398724,Occupancy Change
+Asking Rent Change,0.045265418,Occupancy Change
+Effective Rent Change 1,0.042911261137546966,Occupancy Change
+Asking Rent Change 1,0.041848038331394014,Occupancy Change
+Effective RPSF,0.039748767,Occupancy Change
+YoY Asking Rent Change 1,0.039154565,Occupancy Change
+Asking RPSF,0.038617432191091206,Occupancy Change
+Asking Rent,0.034828125,Occupancy Change
+YoY Effective Rent Change 1,0.034474213,Occupancy Change
+Effective Rent,0.033590865,Occupancy Change
+Yoy Asking Rent Change,0.031621221104326025,Occupancy Change
+YoY Effective Rent Change,0.030510948338633766,Occupancy Change
+YoY Occupancy Change 1,0.028757321862607096,Occupancy Change
+ZIP Code,0.021750679983373798,Occupancy Change
+Average Year Built of Sample,0.020560075086811225,Occupancy Change
+Average Unit Size (SF),0.020270456659462227,Occupancy Change
+Units Sampled,0.019797428870460394,Occupancy Change
+Percent Sampled,0.016181938926648397,Occupancy Change
+Annual Units Sampled,0.015504289337472117,Occupancy Change
+Units Sampled 1,0.013939043361411867,Occupancy Change
+Concession ($),0.010228037578711593,Occupancy Change
+Percent of Units Offering Concessions,0.009037655,Occupancy Change
+Concession (% of Asking Rent),0.008322924,Occupancy Change
+Ora Score,0.006187012,Occupancy Change
+QoQ Ora Score Change,0.005225775,Occupancy Change
+Annual Properties Sampled,0.004993347,Occupancy Change
+YoY Ora Score Change,0.004000017,Occupancy Change
+Properties Sampled 1,0.003649577,Occupancy Change
+Properties Sampled,0.002998913,Occupancy Change
+Category_Unit Type,0.001439024,Occupancy Change
+Niche_2 BR,0.00128482,Occupancy Change
+Annual Price per Unit,0.001276046,Occupancy Change
+Niche_1990s,0.001104063,Occupancy Change
+Niche_3 BR,0.000995781,Occupancy Change
+Annual Transaction Volume ($),0.000951083,Occupancy Change
+Niche_Eff,0.000910992,Occupancy Change
+Niche_1970s,0.000854934,Occupancy Change
+Niche_Mid-Rise,0.000846645,Occupancy Change
+Niche_2010s,0.000827117,Occupancy Change
+Niche_1980s,0.000784715,Occupancy Change
+Category_Year Built,0.000754307,Occupancy Change
+Niche_Low-Rise,0.000629808,Occupancy Change
+Niche_2000s,0.000601037,Occupancy Change
+Existing Units,0.000542868,Occupancy Change
+Niche_Class B,0.000475754,Occupancy Change
+Annual Cap Rate,0.000457485,Occupancy Change
+Niche_Pre-1970,0.000452866,Occupancy Change
+Niche_Class A,0.000424303,Occupancy Change
+Category_Class,0.000375233,Occupancy Change
+Niche_Class C,0.000368214,Occupancy Change
+Niche_High-Rise,0.000358495,Occupancy Change
+Annual Transaction Volume (#),0.000342489,Occupancy Change
+Niche_2020+,0.000103542,Occupancy Change
+New Lease Rate Change (Trade Out),0.000102751,Occupancy Change
+Renewal Conversion,8.955748326411686e-05,Occupancy Change
+Renewal Lease Term,6.112308142184772e-05,Occupancy Change
+Average Vacant Days,6.0052549136855305e-05,Occupancy Change
+New Lease Applications per Unit,3.691723357346013e-05,Occupancy Change
+Rate Change (Trade Out),3.613094516671542e-05,Occupancy Change
+Signed Renewal Leases per Unit,3.527568908319288e-05,Occupancy Change
+YoY Renewal Conversion Change,3.22003197436665e-05,Occupancy Change
+Niche_Totals,3.1850797078962887e-05,Occupancy Change
+Category_Totals,3.119587288336996e-05,Occupancy Change
+Renewal Lease Rate Change (Trade Out),3.106554881104903e-05,Occupancy Change
+YoY Revenue Change (Rev / ASF),2.8223871596710933e-05,Occupancy Change
+New Lease Term,2.649915320548131e-05,Occupancy Change
+YoY Rent Roll Change (Rev / OSF),2.5218243955585836e-05,Occupancy Change
+Rent Roll (Rev / OSF),2.037457571109656e-05,Occupancy Change
+Revenue (Rev / ASF),1.9555459840720387e-05,Occupancy Change
+Leads (Guest Cards) per Unit,1.0034398810275937e-06,Occupancy Change
+Payroll and Related Expenses per Unit,4.516610743939919e-07,Occupancy Change
+Turnover Costs per Unit,4.405780196042921e-07,Occupancy Change
+YoY Expense Change per Unit (%),4.0976473874128784e-07,Occupancy Change
+NOI per Unit,4.076292147260389e-07,Occupancy Change
+Operating and Maintenance %,3.887084106825801e-07,Occupancy Change
+Expense % of Revenue,3.8048655724227894e-07,Occupancy Change
+Utilities per Unit,3.6725634255323437e-07,Occupancy Change
+Turnover Costs %,3.618506397171285e-07,Occupancy Change
+Utilities %,3.5830096375000625e-07,Occupancy Change
+Taxes %,3.3906932131370676e-07,Occupancy Change
+NOI % of Revenue,3.3733954861385873e-07,Occupancy Change
+Marketing Expenses %,3.2532000579100545e-07,Occupancy Change
+Administrative Expenses %,3.1956309350405886e-07,Occupancy Change
+YoY Noi Change per Unit (%),3.094727538732033e-07,Occupancy Change
+Insurance %,2.9839926243546636e-07,Occupancy Change
+Payroll and Related Expenses %,2.9739119896549235e-07,Occupancy Change
+Administrative Expenses per Unit,2.8390993174756446e-07,Occupancy Change
+Expense per Unit,2.787894649221043e-07,Occupancy Change
+Operating and Maintenance per Unit,2.7082205179575375e-07,Occupancy Change
+Management Fees %,2.417191553580434e-07,Occupancy Change
+Monthly Multifamily Permits,2.2821561222503257e-07,Occupancy Change
+Management Fees per Unit,2.1199285094904152e-07,Occupancy Change
+Insurance per Unit,2.1141331413123837e-07,Occupancy Change
+Marketing Expenses per Unit,2.059023639382602e-07,Occupancy Change
+MoM Employment Change (#),1.376580048820663e-07,Occupancy Change
+Taxes per Unit,1.3378939479391467e-07,Occupancy Change
+QoQ Multifamily Permits Change,1.2413963971336322e-07,Occupancy Change
+Quarterly Single-Family Permits,1.0936795646611004e-07,Occupancy Change
+MoM Single-Family Permits Change,1.0472256212792203e-07,Occupancy Change
+QoQ Employment Change (%),8.743159072988044e-08,Occupancy Change
+QoQ Total Permits Change,8.52168373645973e-08,Occupancy Change
+Annual Multifamily Permits,5.7029295788370673e-08,Occupancy Change
+MoM Multifamily Permits Change,5.2112938503112337e-08,Occupancy Change
+Annual Single-Family Permits,5.088846207859932e-08,Occupancy Change
+YoY Employment Change (#),4.5996883236275087e-08,Occupancy Change
+MoM Total Permits Change,4.5165380435293074e-08,Occupancy Change
+Quarterly Multifamily Permits,4.208855041089159e-08,Occupancy Change
+MoM Employment Change (%),4.103450726634881e-08,Occupancy Change
+Quarterly Total Permits,4.087901259619542e-08,Occupancy Change
+Monthly Total Permits,3.909659698706471e-08,Occupancy Change
+Total Employment,3.653978768221577e-08,Occupancy Change
+QoQ Single-Family Permits Change,3.5524669091759753e-08,Occupancy Change
+YoY Employment Change (%),3.213868140064825e-08,Occupancy Change
+Annual Total Permits,3.006997900099988e-08,Occupancy Change
+QoQ Employment Change (#),3.006106531190126e-08,Occupancy Change
+YoY Total Permits Change,2.883395463426391e-08,Occupancy Change
+Monthly Single-Family Permits,2.3843724740891354e-08,Occupancy Change
+YoY Multifamily Permits Change,2.211641408084172e-08,Occupancy Change
+YoY Single-Family Permits Change,2.0736142572351227e-08,Occupancy Change
+Other Expenses per Unit,0,Occupancy Change
+Annual Property Starts,0,Occupancy Change
+Other Expenses %,0,Occupancy Change
+Annual Net Supply,0,Occupancy Change
+Annual Unit Starts,0,Occupancy Change
+Units Under Construction,0,Occupancy Change
+Annual Demand,0,Occupancy Change
+Annual Net Inventory Ratio,0,Occupancy Change
+Quarterly Demand,0,Occupancy Change
+Property Starts,0,Occupancy Change
+Annual Removals,0,Occupancy Change
+Median Rent-to-Income Ratio,0,Occupancy Change
+Annual Supply,0,Occupancy Change
+Quarterly Removals,0,Occupancy Change
+Unit Starts,0,Occupancy Change
+Quarterly Net Inventory,0,Occupancy Change
+Quarterly Supply,0,Occupancy Change
+Average Monthly Income,0,Occupancy Change
+Quarterly Net Inventory Ratio,0,Occupancy Change
+Vacancy,0.9951928620977466,Occupancy
+Units Sampled,0.002789426,Occupancy
+Properties Sampled 1,0.000503505,Occupancy
+Average Unit Size (SF),0.000392628,Occupancy
+ZIP Code,0.000357282,Occupancy
+Properties Sampled,0.000345743,Occupancy
+Units Sampled 1,0.000316397,Occupancy
+Average Year Built of Sample,3.590889091714267e-05,Occupancy
+Year,2.21580872154736e-05,Occupancy
+Annual Units Sampled,8.323690024322096e-06,Occupancy
+Niche_1980s,8.199328202255789e-06,Occupancy
+Category_Unit Type,6.519749065882782e-06,Occupancy
+Effective RPSF,2.0988570549034684e-06,Occupancy
+Asking Rent,1.7942690177563033e-06,Occupancy
+YoY Asking Rent Change 1,1.6566108291927067e-06,Occupancy
+Asking RPSF,1.5941457675706387e-06,Occupancy
+YoY Effective Rent Change,1.3460639826145844e-06,Occupancy
+YoY Effective Rent Change 1,1.2747838950356836e-06,Occupancy
+Effective Rent,1.1988129663039454e-06,Occupancy
+Effective Rent Change 1,1.1415480390678328e-06,Occupancy
+YoY Occupancy Change,1.121088094959559e-06,Occupancy
+Yoy Asking Rent Change,1.1007199852657666e-06,Occupancy
+Niche_2 BR,8.405103280782508e-07,Occupancy
+Annual Properties Sampled,7.944289356310143e-07,Occupancy
+YoY Occupancy Change 1,7.480408053461854e-07,Occupancy
+Month,7.341231362733035e-07,Occupancy
+Occupancy Change,6.941137108780049e-07,Occupancy
+Effective Rent Change,6.489603108356443e-07,Occupancy
+Asking Rent Change 1,4.5729166082020135e-07,Occupancy
+Asking Rent Change,4.3082099552626093e-07,Occupancy
+Percent Sampled,3.8547894785743803e-07,Occupancy
+Category_Year Built,3.1339952067296407e-07,Occupancy
+Concession ($),2.0186626514972588e-07,Occupancy
+Percent of Units Offering Concessions,1.9704230384521607e-07,Occupancy
+Concession (% of Asking Rent),9.632246799572707e-08,Occupancy
+Niche_Eff,7.730880735394547e-08,Occupancy
+Niche_Class A,4.153851056032729e-08,Occupancy
+Niche_3 BR,1.6267615043477014e-08,Occupancy
+Ora Score,1.4130511028706415e-08,Occupancy
+YoY Ora Score Change,9.73279958831261e-09,Occupancy
+Category_Class,6.651163479298939e-09,Occupancy
+Niche_2010s,4.61299405643481e-09,Occupancy
+QoQ Ora Score Change,3.307813484180252e-09,Occupancy
+Annual Transaction Volume (#),1.0095225009344885e-09,Occupancy
+Niche_Low-Rise,8.684637718737938e-10,Occupancy
+Niche_2000s,7.550780305130657e-10,Occupancy
+Niche_Totals,3.5336513852488504e-10,Occupancy
+Annual Price per Unit,3.3358061400399436e-10,Occupancy
+Niche_High-Rise,3.206001497204004e-10,Occupancy
+Niche_Class C,2.9894114761515357e-10,Occupancy
+Niche_Class B,1.4853197536224148e-10,Occupancy
+Annual Transaction Volume ($),1.3376678074858328e-10,Occupancy
+Existing Units,5.152867206221944e-11,Occupancy
+Niche_Mid-Rise,4.38742134380369e-11,Occupancy
+Category_Totals,3.346131970925771e-11,Occupancy
+Average Vacant Days,5.904476856321615e-13,Occupancy
+YoY Renewal Conversion Change,4.614066686803142e-13,Occupancy
+Revenue (Rev / ASF),4.1470745508725397e-13,Occupancy
+Renewal Lease Rate Change (Trade Out),3.6328471047231843e-13,Occupancy
+New Lease Term,3.6290237084156137e-13,Occupancy
+Rent Roll (Rev / OSF),3.614772991288644e-13,Occupancy
+Annual Cap Rate,3.4397201765610095e-13,Occupancy
+Renewal Conversion,3.2570664769165094e-13,Occupancy
+Signed Renewal Leases per Unit,3.229861089923997e-13,Occupancy
+Rate Change (Trade Out),2.929679937813761e-13,Occupancy
+New Lease Applications per Unit,2.617279176102429e-13,Occupancy
+YoY Revenue Change (Rev / ASF),2.598993255112443e-13,Occupancy
+New Lease Rate Change (Trade Out),2.5638999321693513e-13,Occupancy
+YoY Rent Roll Change (Rev / OSF),2.385512988362888e-13,Occupancy
+Renewal Lease Term,2.3217204875562933e-13,Occupancy
+NOI per Unit,1.3704814509098308e-13,Occupancy
+Utilities per Unit,1.152636313522599e-13,Occupancy
+Leads (Guest Cards) per Unit,8.855290837192236e-14,Occupancy
+Administrative Expenses %,8.374068144562543e-14,Occupancy
+NOI % of Revenue,8.245863688634453e-14,Occupancy
+Marketing Expenses per Unit,8.118583885395334e-14,Occupancy
+Taxes %,7.936910339460728e-14,Occupancy
+Expense % of Revenue,7.665381610429654e-14,Occupancy
+Expense per Unit,7.107809432031817e-14,Occupancy
+YoY Expense Change per Unit (%),6.111449191015469e-14,Occupancy
+Administrative Expenses per Unit,5.986553030833027e-14,Occupancy
+Insurance per Unit,5.5060267949703153e-14,Occupancy
+Payroll and Related Expenses per Unit,5.183290361823736e-14,Occupancy
+YoY Noi Change per Unit (%),5.06134546377657e-14,Occupancy
+Turnover Costs per Unit,5.0335483663079863e-14,Occupancy
+Turnover Costs %,4.816697389841884e-14,Occupancy
+Utilities %,4.7291777263531255e-14,Occupancy
+Taxes per Unit,4.550067148211644e-14,Occupancy
+Management Fees %,4.276573713414682e-14,Occupancy
+Annual Total Permits,3.9119905302819777e-14,Occupancy
+Operating and Maintenance per Unit,3.8673012698621574e-14,Occupancy
+Annual Single-Family Permits,3.7145906709879864e-14,Occupancy
+YoY Employment Change (#),3.620915070378601e-14,Occupancy
+YoY Multifamily Permits Change,3.3955065621673846e-14,Occupancy
+Payroll and Related Expenses %,3.262438113759709e-14,Occupancy
+Marketing Expenses %,3.250019709810701e-14,Occupancy
+MoM Employment Change (#),2.936506208921775e-14,Occupancy
+Management Fees per Unit,2.8042761181676454e-14,Occupancy
+Insurance %,2.61819816237953e-14,Occupancy
+MoM Employment Change (%),2.59802852712835e-14,Occupancy
+Monthly Total Permits,2.3644295710339326e-14,Occupancy
+QoQ Employment Change (%),2.0579463114859913e-14,Occupancy
+Quarterly Multifamily Permits,1.784381280318889e-14,Occupancy
+MoM Total Permits Change,1.6026093749070347e-14,Occupancy
+Quarterly Total Permits,1.3090290510340232e-14,Occupancy
+QoQ Total Permits Change,1.222386122675309e-14,Occupancy
+Monthly Single-Family Permits,1.1514014809150674e-14,Occupancy
+Operating and Maintenance %,1.142793619506208e-14,Occupancy
+Monthly Multifamily Permits,1.006533653651128e-14,Occupancy
+MoM Single-Family Permits Change,8.887752242579632e-15,Occupancy
+QoQ Employment Change (#),7.425387436773802e-15,Occupancy
+YoY Employment Change (%),6.47252223950391e-15,Occupancy
+Quarterly Single-Family Permits,6.030369813763441e-15,Occupancy
+YoY Total Permits Change,5.913069908023384e-15,Occupancy
+QoQ Single-Family Permits Change,5.27759006364463e-15,Occupancy
+QoQ Multifamily Permits Change,5.248539694136004e-15,Occupancy
+Total Employment,4.582755159272425e-15,Occupancy
+MoM Multifamily Permits Change,3.0292528221629e-15,Occupancy
+YoY Single-Family Permits Change,1.405648266283974e-15,Occupancy
+Niche_2020+,4.0488214002794855e-16,Occupancy
+Niche_1970s,2.5539314317088204e-16,Occupancy
+Niche_1990s,2.434504981625706e-16,Occupancy
+Niche_Pre-1970,1.223220782701621e-16,Occupancy
+Annual Multifamily Permits,9.092209989595557e-17,Occupancy
+Quarterly Net Inventory,0,Occupancy
+Quarterly Net Inventory Ratio,0,Occupancy
+Median Rent-to-Income Ratio,0,Occupancy
+Quarterly Supply,0,Occupancy
+Average Monthly Income,0,Occupancy
+Other Expenses per Unit,0,Occupancy
+Other Expenses %,0,Occupancy
+Quarterly Removals,0,Occupancy
+Property Starts,0,Occupancy
+Annual Supply,0,Occupancy
+Annual Removals,0,Occupancy
+Annual Net Supply,0,Occupancy
+Annual Property Starts,0,Occupancy
+Unit Starts,0,Occupancy
+Annual Unit Starts,0,Occupancy
+Units Under Construction,0,Occupancy
+Annual Demand,0,Occupancy
+Annual Net Inventory Ratio,0,Occupancy
+Quarterly Demand,0,Occupancy
+Concession ($),0.3727238836270872,Percent of Units Offering Concessions
+Properties Sampled,0.11805986049505124,Percent of Units Offering Concessions
+Year,0.061425265529341806,Percent of Units Offering Concessions
+Annual Properties Sampled,0.058755772,Percent of Units Offering Concessions
+YoY Effective Rent Change 1,0.049255244,Percent of Units Offering Concessions
+Effective RPSF,0.031050501,Percent of Units Offering Concessions
+Average Year Built of Sample,0.028660536,Percent of Units Offering Concessions
+YoY Asking Rent Change 1,0.026475396,Percent of Units Offering Concessions
+ZIP Code,0.020287404118836276,Percent of Units Offering Concessions
+Annual Units Sampled,0.020202362869906496,Percent of Units Offering Concessions
+Average Unit Size (SF),0.018466437468052495,Percent of Units Offering Concessions
+Percent Sampled,0.018369611808118497,Percent of Units Offering Concessions
+Units Sampled,0.017580932,Percent of Units Offering Concessions
+Effective Rent,0.017277949,Percent of Units Offering Concessions
+Asking RPSF,0.016320091050239405,Percent of Units Offering Concessions
+Concession (% of Asking Rent),0.016293763212522457,Percent of Units Offering Concessions
+Asking Rent,0.010418202367348384,Percent of Units Offering Concessions
+Effective Rent Change 1,0.008381369,Percent of Units Offering Concessions
+Units Sampled 1,0.007963175,Percent of Units Offering Concessions
+Yoy Asking Rent Change,0.007720374,Percent of Units Offering Concessions
+Ora Score,0.007404349,Percent of Units Offering Concessions
+YoY Effective Rent Change,0.007043032,Percent of Units Offering Concessions
+Vacancy,0.00630879,Percent of Units Offering Concessions
+YoY Occupancy Change 1,0.006051714,Percent of Units Offering Concessions
+Asking Rent Change 1,0.00581397,Percent of Units Offering Concessions
+Occupancy,0.005380384,Percent of Units Offering Concessions
+Properties Sampled 1,0.004783093,Percent of Units Offering Concessions
+YoY Occupancy Change,0.004776351,Percent of Units Offering Concessions
+Month,0.004513116,Percent of Units Offering Concessions
+Effective Rent Change,0.004143319,Percent of Units Offering Concessions
+Occupancy Change,0.003969322,Percent of Units Offering Concessions
+Asking Rent Change,0.003925853,Percent of Units Offering Concessions
+YoY Ora Score Change,0.001618364,Percent of Units Offering Concessions
+QoQ Ora Score Change,0.001163997,Percent of Units Offering Concessions
+Category_Unit Type,0.000990657,Percent of Units Offering Concessions
+Niche_Eff,0.000644364,Percent of Units Offering Concessions
+Niche_2 BR,0.000569028,Percent of Units Offering Concessions
+Niche_1990s,0.000558626,Percent of Units Offering Concessions
+Niche_2000s,0.000470712,Percent of Units Offering Concessions
+Niche_1980s,0.000403708,Percent of Units Offering Concessions
+Category_Year Built,0.000402182,Percent of Units Offering Concessions
+Niche_2010s,0.000358204,Percent of Units Offering Concessions
+Niche_3 BR,0.000329191,Percent of Units Offering Concessions
+Niche_Mid-Rise,0.00031838,Percent of Units Offering Concessions
+Niche_Class B,0.00028319,Percent of Units Offering Concessions
+Niche_1970s,0.000232284,Percent of Units Offering Concessions
+Niche_Class A,0.000221251,Percent of Units Offering Concessions
+Niche_Pre-1970,0.000174764,Percent of Units Offering Concessions
+Category_Class,0.000171146,Percent of Units Offering Concessions
+Niche_Class C,0.000127233,Percent of Units Offering Concessions
+Annual Price per Unit,0.000121512,Percent of Units Offering Concessions
+Niche_2020+,0.000101984,Percent of Units Offering Concessions
+Annual Cap Rate,9.155965438743592e-05,Percent of Units Offering Concessions
+Rent Roll (Rev / OSF),7.945470046607749e-05,Percent of Units Offering Concessions
+Existing Units,6.563731623794259e-05,Percent of Units Offering Concessions
+Annual Transaction Volume ($),6.448516543864682e-05,Percent of Units Offering Concessions
+Revenue (Rev / ASF),5.88079629562511e-05,Percent of Units Offering Concessions
+YoY Rent Roll Change (Rev / OSF),5.7941508520492154e-05,Percent of Units Offering Concessions
+Annual Transaction Volume (#),5.541535459583417e-05,Percent of Units Offering Concessions
+YoY Revenue Change (Rev / ASF),5.2695156225246135e-05,Percent of Units Offering Concessions
+Renewal Lease Rate Change (Trade Out),4.330900563944785e-05,Percent of Units Offering Concessions
+Niche_High-Rise,4.3107452454044424e-05,Percent of Units Offering Concessions
+Renewal Lease Term,3.755774722826168e-05,Percent of Units Offering Concessions
+Renewal Conversion,3.400138374528283e-05,Percent of Units Offering Concessions
+New Lease Rate Change (Trade Out),3.2738843047052094e-05,Percent of Units Offering Concessions
+New Lease Term,3.209625637891456e-05,Percent of Units Offering Concessions
+Niche_Low-Rise,2.6980443942100457e-05,Percent of Units Offering Concessions
+Rate Change (Trade Out),2.5198602570946493e-05,Percent of Units Offering Concessions
+YoY Renewal Conversion Change,2.3843488858799702e-05,Percent of Units Offering Concessions
+Average Vacant Days,2.3532935054654532e-05,Percent of Units Offering Concessions
+New Lease Applications per Unit,2.338931041082676e-05,Percent of Units Offering Concessions
+Signed Renewal Leases per Unit,2.183742319389172e-05,Percent of Units Offering Concessions
+Niche_Totals,1.3779653629916918e-05,Percent of Units Offering Concessions
+Category_Totals,1.1457211809569133e-05,Percent of Units Offering Concessions
+Leads (Guest Cards) per Unit,5.499613881519903e-06,Percent of Units Offering Concessions
+Expense per Unit,8.313041936534334e-07,Percent of Units Offering Concessions
+Operating and Maintenance per Unit,7.274315152317676e-07,Percent of Units Offering Concessions
+Insurance %,6.944886422484452e-07,Percent of Units Offering Concessions
+Operating and Maintenance %,6.301104523689301e-07,Percent of Units Offering Concessions
+Payroll and Related Expenses %,5.899041816133535e-07,Percent of Units Offering Concessions
+Management Fees per Unit,5.769399248311205e-07,Percent of Units Offering Concessions
+Turnover Costs %,5.654517713460575e-07,Percent of Units Offering Concessions
+Administrative Expenses per Unit,5.306861205881747e-07,Percent of Units Offering Concessions
+YoY Noi Change per Unit (%),5.171065801492034e-07,Percent of Units Offering Concessions
+Administrative Expenses %,4.867984104909565e-07,Percent of Units Offering Concessions
+Expense % of Revenue,4.747416686463912e-07,Percent of Units Offering Concessions
+Utilities %,4.708135720061586e-07,Percent of Units Offering Concessions
+Management Fees %,4.6200391661236633e-07,Percent of Units Offering Concessions
+NOI % of Revenue,4.551499858373727e-07,Percent of Units Offering Concessions
+Taxes %,4.354935875679659e-07,Percent of Units Offering Concessions
+YoY Expense Change per Unit (%),4.2213789043689564e-07,Percent of Units Offering Concessions
+Taxes per Unit,3.8067734117670064e-07,Percent of Units Offering Concessions
+Utilities per Unit,3.794151067838591e-07,Percent of Units Offering Concessions
+Marketing Expenses per Unit,3.79196082673832e-07,Percent of Units Offering Concessions
+Payroll and Related Expenses per Unit,3.451641404021859e-07,Percent of Units Offering Concessions
+Turnover Costs per Unit,3.27967027921948e-07,Percent of Units Offering Concessions
+Marketing Expenses %,2.871840279212489e-07,Percent of Units Offering Concessions
+Insurance per Unit,2.8151752228535e-07,Percent of Units Offering Concessions
+NOI per Unit,2.656050839412189e-07,Percent of Units Offering Concessions
+QoQ Single-Family Permits Change,1.7908015649588127e-07,Percent of Units Offering Concessions
+Total Employment,1.409753912645571e-07,Percent of Units Offering Concessions
+Annual Single-Family Permits,1.3482623125308723e-07,Percent of Units Offering Concessions
+YoY Employment Change (#),1.3423338647902313e-07,Percent of Units Offering Concessions
+QoQ Multifamily Permits Change,1.1352681736966169e-07,Percent of Units Offering Concessions
+Annual Total Permits,9.638689569925379e-08,Percent of Units Offering Concessions
+Monthly Multifamily Permits,8.501538447746399e-08,Percent of Units Offering Concessions
+Monthly Single-Family Permits,8.411371991795382e-08,Percent of Units Offering Concessions
+YoY Multifamily Permits Change,7.97730774668823e-08,Percent of Units Offering Concessions
+MoM Employment Change (%),7.548376973707988e-08,Percent of Units Offering Concessions
+Quarterly Total Permits,7.087336591994364e-08,Percent of Units Offering Concessions
+Quarterly Single-Family Permits,6.946576485279542e-08,Percent of Units Offering Concessions
+MoM Multifamily Permits Change,6.822702685795128e-08,Percent of Units Offering Concessions
+YoY Employment Change (%),6.524271619419486e-08,Percent of Units Offering Concessions
+MoM Total Permits Change,6.517865172871054e-08,Percent of Units Offering Concessions
+MoM Employment Change (#),6.23825873200021e-08,Percent of Units Offering Concessions
+MoM Single-Family Permits Change,6.006413738171808e-08,Percent of Units Offering Concessions
+Quarterly Multifamily Permits,5.884095298840078e-08,Percent of Units Offering Concessions
+QoQ Employment Change (%),5.719531521697483e-08,Percent of Units Offering Concessions
+YoY Total Permits Change,5.5733385016136177e-08,Percent of Units Offering Concessions
+QoQ Total Permits Change,5.093120660609135e-08,Percent of Units Offering Concessions
+YoY Single-Family Permits Change,4.9385037376888425e-08,Percent of Units Offering Concessions
+Annual Multifamily Permits,3.793496843829561e-08,Percent of Units Offering Concessions
+QoQ Employment Change (#),2.979551976329244e-08,Percent of Units Offering Concessions
+Monthly Total Permits,2.9745586174994185e-08,Percent of Units Offering Concessions
+Annual Supply,0,Percent of Units Offering Concessions
+Quarterly Supply,0,Percent of Units Offering Concessions
+Other Expenses %,0,Percent of Units Offering Concessions
+Quarterly Net Inventory Ratio,0,Percent of Units Offering Concessions
+Quarterly Net Inventory,0,Percent of Units Offering Concessions
+Quarterly Removals,0,Percent of Units Offering Concessions
+Annual Net Inventory Ratio,0,Percent of Units Offering Concessions
+Annual Removals,0,Percent of Units Offering Concessions
+Annual Net Supply,0,Percent of Units Offering Concessions
+Property Starts,0,Percent of Units Offering Concessions
+Annual Property Starts,0,Percent of Units Offering Concessions
+Unit Starts,0,Percent of Units Offering Concessions
+Annual Unit Starts,0,Percent of Units Offering Concessions
+Units Under Construction,0,Percent of Units Offering Concessions
+Annual Demand,0,Percent of Units Offering Concessions
+Quarterly Demand,0,Percent of Units Offering Concessions
+Median Rent-to-Income Ratio,0,Percent of Units Offering Concessions
+Other Expenses per Unit,0,Percent of Units Offering Concessions
+Average Monthly Income,0,Percent of Units Offering Concessions
