@@ -77,7 +77,7 @@ def upload_data(table_name, df):
 
 
 current_dir = os.path.expanduser(r"C:\Users\patel\Desktop\Personal\work\Realpage")
-table_name = "REALPAGE_DATA"
+table_name = "GEOGRAPHY_DATA"
 print(current_dir + '\n')
 
 word = "20"
