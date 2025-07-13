@@ -6,11 +6,11 @@ import re
 import os
 from datetime import datetime, timedelta
 
-USER = 'kabir'
-PASS = 'Score@1000'
-ACCOUNT = 'nzb10951.us-east-1'
-WAREHOUSE = 'COMPUTE_WH'
-DATABASE = 'STR'
+USER='--'
+PASSWORD='--'
+ACCOUNT='--'
+WAREHOUSE='--'
+DATABASE ='--'
 
 # Función para cargar la configuración desde el archivo JSON
 def load_config(archivo_config):
