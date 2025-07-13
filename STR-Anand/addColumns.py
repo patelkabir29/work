@@ -1,10 +1,10 @@
 import snowflake.connector
 
-USER = 'kabir'
-PASS = 'Score@1000'
-ACCOUNT = 'nzb10951.us-east-1'
-WAREHOUSE = 'COMPUTE_WH'
-DATABASE = 'STR'
+USER='--'
+PASSWORD='--'
+ACCOUNT='--'
+WAREHOUSE='--'
+DATABASE ='--'
 
 # Connect to Snowflake
 conn = snowflake.connector.connect(
