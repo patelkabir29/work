@@ -1,11 +1,11 @@
 import snowflake.connector
 
 conn = snowflake.connector.connect(
-    user='kabir',
-    password='Score@1000',
-    account='nzb10951.us-east-1',
-    warehouse='COMPUTE_WH',
-    database ='STR'
+    USER='--'
+    PASSWORD='--'
+    ACCOUNT='--'
+    WAREHOUSE='--'
+    DATABASE ='--'
 )
 
 cursor = conn.cursor()
