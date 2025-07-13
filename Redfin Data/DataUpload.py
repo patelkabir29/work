@@ -4,11 +4,11 @@ import snowflake.connector
 import os
 
 # ENTER YOUR SNOWFLAKE CREDENTIALS HERE 
-USER='kabir'
-PASSWORD='Score@1000'
-ACCOUNT='nzb10951.us-east-1'
-WAREHOUSE='COMPUTE_WH'
-DATABASE ='STR'
+USER='--'
+PASSWORD='--'
+ACCOUNT='--'
+WAREHOUSE='--'
+DATABASE ='--'
 
 def create_table(table_name, columns):
     # Snowflake connection parameters
